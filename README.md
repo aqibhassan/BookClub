@@ -13,8 +13,27 @@ Book Club is a Laravel Assesment
 
 # Installing
 Clone the Repository:
+
 ```
 git clone https://github.com/aqibhassan/BookClub.git
+
+```
+Create MySQL Database in PhpMyAdmin:
+
+```
+Create database bookclub;
+
+```
+Migrating and seeding database:
+
+```
+php artisan migrate:fresh --seed
+
+```
+Run Project:
+
+```
+php artisan serve
 
 ```
 
