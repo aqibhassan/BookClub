@@ -11,9 +11,12 @@
 
 Book Club is a Laravel Assesment
 
-# installing
-I think you should use an
-`<addr>` element here instead.
+# Installing
+Clone the Repository:
+```
+git clone https://github.com/aqibhassan/BookClub.git
+
+```
 
 
 
